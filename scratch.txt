@@ -1,0 +1,5 @@
+stack = [20 15]
+node = Node(10)
+current = Node(10)
+
+output: 10 15 ..
